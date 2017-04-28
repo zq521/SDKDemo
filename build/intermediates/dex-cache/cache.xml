@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/com.baidu.android.localasr_1.1.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe29092eb0bf9fb86f3ff4f9f9bd4c1d78238ed">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.baidu.android.localasr_1.1.22_3abd7feea02e5c8c9dff64c092b2b70432c1e542/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/galaxy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34545ff3c9ca539c62095d104a6723eafeeea18f">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/pre-dexed/debug/galaxy_cd8f957234f80f3198697133e795a608dbb4f2c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/galaxy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34545ff3c9ca539c62095d104a6723eafeeea18f">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/galaxy_cd8f957234f80f3198697133e795a608dbb4f2c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/com.baidu.android.localasr_1.1.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe29092eb0bf9fb86f3ff4f9f9bd4c1d78238ed">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/pre-dexed/debug/com.baidu.android.localasr_1.1.22_3abd7feea02e5c8c9dff64c092b2b70432c1e542.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f78f188cbe65d0c0b6102b373b9fdfc26167469/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/Baidu-SpeechRecognitionUI-SDK-Android-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2d6ed323a79937a41ac5d8d5a72f34af3747021">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/pre-dexed/debug/Baidu-SpeechRecognitionUI-SDK-Android-1.6.2_a347fef0890d1630d5f7009ea679b28cea8a6517.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/Baidu-SpeechRecognitionUI-SDK-Android-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2d6ed323a79937a41ac5d8d5a72f34af3747021">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/Baidu-SpeechRecognitionUI-SDK-Android-1.6.2_a347fef0890d1630d5f7009ea679b28cea8a6517/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/com.baidu.speechsynthesizer_1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2893f5d247abdb660dbeb015240be59531df24">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/pre-dexed/debug/com.baidu.speechsynthesizer_1.1.2_1f1685e2d069162f4b933cf9e78beb1a686fd6a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f571127a905f0b03d812f1eec5e8e4995b6c7280">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_18fde2a7b23533f267bf71dc8d05a4b47fd85415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/com.baidu.speechsynthesizer_1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2893f5d247abdb660dbeb015240be59531df24">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.baidu.speechsynthesizer_1.1.2_1f1685e2d069162f4b933cf9e78beb1a686fd6a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/VoiceRecognition-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a702cb623acb07816253dba097c21c4eae0f0882">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/pre-dexed/debug/VoiceRecognition-1.6.2_4bd00bd3291b9cccc55de9ce2a6c09438a57d20a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16ac8bb359a657826b606f7f6b4e6f84b86c6b2e">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc886b034f4d00fca913a97932093dc07c4284a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f571127a905f0b03d812f1eec5e8e4995b6c7280">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/pre-dexed/debug/volley_18fde2a7b23533f267bf71dc8d05a4b47fd85415.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/turingSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef990069cd2696ce5f0e2fa784526e792c85f267">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/turingSDK_9ae090c3fe2a43e7f90976a3142e913ad7b1857a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/turingSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef990069cd2696ce5f0e2fa784526e792c85f267">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/pre-dexed/debug/turingSDK_9ae090c3fe2a43e7f90976a3142e913ad7b1857a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoqiang/Desktop/SDKDemo/app/libs/VoiceRecognition-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a702cb623acb07816253dba097c21c4eae0f0882">
+        <dex dex="/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/VoiceRecognition-1.6.2_4bd00bd3291b9cccc55de9ce2a6c09438a57d20a/classes.dex" />
+    </item>
+
+</items>

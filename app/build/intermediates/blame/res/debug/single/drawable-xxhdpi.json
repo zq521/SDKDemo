@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/shuotwo.png",
+        "source": "/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/res/drawable-xxhdpi/shuotwo.png"
+    },
+    {
+        "merged": "/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ting.png",
+        "source": "/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/res/drawable-xxhdpi/ting.png"
+    },
+    {
+        "merged": "/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/shuoone.png",
+        "source": "/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/res/drawable-xxhdpi/shuoone.png"
+    },
+    {
+        "merged": "/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/zhuye.png",
+        "source": "/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/res/drawable-xxhdpi/zhuye.png"
+    }
+]

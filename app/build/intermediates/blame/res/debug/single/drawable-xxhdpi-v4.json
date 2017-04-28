@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/speak.xml",
+        "source": "/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/res/drawable-xxhdpi/speak.xml"
+    },
+    {
+        "merged": "/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/listen.xml",
+        "source": "/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/res/drawable-xxhdpi/listen.xml"
+    }
+]

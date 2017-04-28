@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/zhaoqiang/.android/build-cache/f3b505d11dabd1c31c8dd6ae0d41de2ac73b90d6/output/assets"/></dataSet><dataSet config="main"><source path="/Users/zhaoqiang/Desktop/SDKDemo/app/src/main/assets"/><source path="/Users/zhaoqiang/Desktop/SDKDemo/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/zhaoqiang/Desktop/SDKDemo/app/src/debug/assets"/></dataSet></merger>

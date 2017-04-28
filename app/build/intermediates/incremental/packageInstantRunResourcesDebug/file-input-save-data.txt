@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Apr 26 16:05:45 CST 2017
+2.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/shuoone.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/shuotwo.png
+4.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/zhuye.png
+5.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/speak.xml
+10.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ting.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/zhaoqiang/Desktop/SDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/listen.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
